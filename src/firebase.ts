@@ -4,13 +4,13 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyApY5vIrS-by7VTZnma7TWdnyoUOohr08g",
-  authDomain: "snake-447a3.firebaseapp.com",
-  projectId: "snake-447a3",
-  storageBucket: "snake-447a3.firebasestorage.app",
-  messagingSenderId: "962445311597",
-  appId: "1:962445311597:web:aa6676df486f7bd77a4964",
-  databaseURL: "https://snake-447a3-default-rtdb.firebaseio.com",
+  apiKey: "AIzaSyDjcooViPoRmt0mSI65_s7GnIEorPEfcZI",
+  authDomain: "fir-snake-38abc.firebaseapp.com",
+  projectId: "fir-snake-38abc",
+  storageBucket: "fir-snake-38abc.firebasestorage.app",
+  messagingSenderId: "437612710721",
+  appId: "1:437612710721:web:88d687106ac06eef17efc0",
+  databaseURL: "https://fir-snake-38abc-default-rtdb.firebaseio.com"
 };
 
 // Initialize Firebase
